@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Light Chat</title>
-    <link>https://strg30.github.io/</link>
-    <description>Recent content on Light Chat</description>
+    <title>untagged on Light Chat</title>
+    <link>https://strg30.github.io/tags/untagged/</link>
+    <description>Recent content in untagged on Light Chat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 05 Nov 2023 19:45:58 +0000</lastBuildDate>
-    <atom:link href="https://strg30.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://strg30.github.io/about/</link>
-      <pubDate>Sun, 05 Nov 2023 19:46:07 +0000</pubDate>
-      <guid>https://strg30.github.io/about/</guid>
-      <description></description>
-    </item>
+    <atom:link href="https://strg30.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>https://strg30.github.io/posts/hello_world/</link>

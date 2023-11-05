@@ -2,24 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://strg30.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://strg30.github.io/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://strg30.github.io/it/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="https://strg30.github.io/categories/"
-                />
+    <loc>https://strg30.github.io/about/</loc>
+    <lastmod>2023-11-05T19:46:07+00:00</lastmod>
+  </url><url>
+    <loc>https://strg30.github.io/posts/hello_world/</loc>
+    <lastmod>2023-11-05T19:45:58+00:00</lastmod>
   </url><url>
     <loc>https://strg30.github.io/</loc>
+    <lastmod>2023-11-05T19:45:58+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -36,7 +26,11 @@
                 href="https://strg30.github.io/"
                 />
   </url><url>
+    <loc>https://strg30.github.io/posts/</loc>
+    <lastmod>2023-11-05T19:45:58+00:00</lastmod>
+  </url><url>
     <loc>https://strg30.github.io/tags/</loc>
+    <lastmod>2023-11-05T19:45:58+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -51,6 +45,26 @@
                 rel="alternate"
                 hreflang="en-gb"
                 href="https://strg30.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://strg30.github.io/tags/untagged/</loc>
+    <lastmod>2023-11-05T19:45:58+00:00</lastmod>
+  </url><url>
+    <loc>https://strg30.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://strg30.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://strg30.github.io/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="https://strg30.github.io/categories/"
                 />
   </url>
 </urlset>
