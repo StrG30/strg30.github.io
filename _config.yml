@@ -4,7 +4,7 @@ plugins:
   - jekyll-remote-theme
 
 title: "Blog Title"
-author: "Blog Author"
+author: "StrG30"
 description: "My personal blog about ... something"
 permalink: /:title/
 lang: "en"
@@ -24,8 +24,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:str.g30.dev@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/StrG30/"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
